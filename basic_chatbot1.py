@@ -623,7 +623,7 @@ def find_answer(user_message, session_id):
             return f"Glad you're excited! {response}" if sentiment > 0.4 else response
     else:
         # Announcements
-        if "latest announcement" in query_clean or "latest events" in query_clean:
+        if "latest announcement" in query_clean or "latest events" in query_clean or "latest news" in query_clean or "news" in query_clean:
             update_dynamic_data()
             latest = [v for k, v in knowledge_base.items() if "announcement_" in k][:3]
             response = "Exciting updates at RVR & JC! 📢\n" + "\n".join(latest) if latest else "No new announcements yet, but stay tuned! 📣"
