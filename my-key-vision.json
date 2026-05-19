@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "river-city-458605-t6",
+  "private_key_id": "a8ab28594a3ac523cfd755da9be9841172394cbb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC2Kl+9rh8Om31v\nrVCrO8ZTOOJyOYOKiV55KBCdg42e6WxZmOkrU0GijGkeC7/I7t+rpAAALCp/A+em\n5/gV5RfHbUnfXhQtHRqfvlOtS103mBSbSClzZe9IJCaQvQwRIIgHx1EWdpYWjZDU\nz2+Ednr0s4fmn+aE0BnPTJVnz4qtlc4X6ym8DFkkGK8t4wW/dwtvIP1/nB4W8NPe\nAdURfcM/o2ypz9iBbjFUl7TwONlRQV+TtpJjt+/2hozc4/L5HrRRXENMwqbuySKn\nzB8faZNfQ02KTKnOnS0ufoJuGijskKaG00IVSQ98/RCqMAcT4FTrZJhGz5PF7EkW\nIvE15y6NAgMBAAECggEANqUsdj6C44NiU/tmPQ+f1Tw1tbUqEAdYNzj9Dvs1Iwv7\nrD7yB0Sg5k1/hPtaS0DZCOiX9XVKRDLcLVXdtle0U+clZ2OV4tidsXjLKit26aPt\n3oz9njfgWUA672U+du7Oz6KLYRUuvdI2tZgKaG6QQNKQPG8QHBw++dAL64m3HI3X\nNLTPmB9FipTap+NaLY6HNXoTrTkq8BmUS90BjJG4dqx19+os8SoRPGfK9mXz2gZU\nEmNlmfOysvzu1V19lq/E1on8N9e1e8pspz1n8ZD4c7vD2Dg8AbKIaHAfzQeTN1Cr\n3ORcDPpB1NNIWlQTSCq1dp27h4dHqAaAA38Ziemo0wKBgQDqoEyaueuIt/BUvVN0\nwGb/kNGTCWSHXFWDOrXa4xOe7g3LCAEp2EAaHdmXbelbcSp7+0TRb7mCDD4/BmMO\nnbnZ3xdQf96uQqxDCdzdRL3nEkQe3uNd1bALZeBTAXgirQlMTqovR5bQOpv4tG1j\nCYRsiAxysI5VI/9Jt0EJ1rkudwKBgQDGwqTFx0dD3JnwPPSqfMwngBgzrp9lSDX8\n72eXRif6bDpVnO90BrikjuSC7rlG1TvFkIwOxCX0afBbnGjUGoc68jW0BLwo6UOM\ndVAJ4XtobCr8e/I63ofjDVHoVkAPGrYawDVNM4+cpK9gsPRh2Rka0sgL/vOnCVeP\nYKo4+oT4GwKBgQCXkosqgeV5Y2rtM4oQqKNhgssBNFYvZCUSLAGDsKLiT2O1wCwQ\nPlXbCWGihCz3F/qcMc1Zh9XN/97OlG+154tDBu5m4NSYuxXSETMP9vK/rns3fkJg\nQkYCdwQeW5qivCp/k2o6NQNm7hYI63anPmTAQHvaM9kfg6vOkYaAtqjXLQKBgEQR\nbLR+5p0K830eovuv+Yqdh6xLZTMeY77XjjZ0RESyw9eGA0tM8fcJKKDeeH0VkX67\nXfvAmO73SOVWz1+0JhO91z5rULUCDawQkPSRT94XDTGikPYwN4E+kopq301M7IiE\nwrxJqCkRDS6j602HN93Dydax3Wea/22OwTz6Lod5AoGBAIQVYrs9/3y1sh10PiZf\nbfMPd+hy/ftXsxSh986fGlLz82JcIRgw+ubB+SSht6NJ0184XHWrNirKMi/rTdM+\n5Xj1TAZ64E7cH/m7HcGadFBM6voLvSTIkio/+azIRVFsq6IpBReYpUCR0RLEJVCF\nxHlBwZhb8hbc5U7dWjROjmut\n-----END PRIVATE KEY-----\n",
+  "client_email": "vision-api-acces-777@river-city-458605-t6.iam.gserviceaccount.com",
+  "client_id": "110203871937626851956",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vision-api-acces-777%40river-city-458605-t6.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,268 @@
+2025-05-08 12:09:48,497 - Use pytorch device_name: cpu
+2025-05-08 12:09:48,497 - Load pretrained SentenceTransformer: multi-qa-MiniLM-L6-cos-v1
+2025-05-08 12:09:53,053 - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-05-08 12:10:11,373 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-08 12:10:11,373 - [33mPress CTRL+C to quit[0m
+2025-05-08 12:10:11,373 -  * Restarting with stat
+2025-05-08 12:10:16,897 - Use pytorch device_name: cpu
+2025-05-08 12:10:16,897 - Load pretrained SentenceTransformer: multi-qa-MiniLM-L6-cos-v1
+2025-05-08 12:12:10,400 -  * Debugger is active!
+2025-05-08 12:12:10,400 -  * Debugger PIN: 939-523-185
+2025-05-08 12:21:03,216 -  * Detected change in 'E:\\ocr(google-cloud-vision)\\basic_chatbot.py', reloading
+2025-05-08 12:21:04,803 -  * Restarting with stat
+2025-05-08 12:21:17,966 - Use pytorch device_name: cpu
+2025-05-08 12:21:17,966 - Load pretrained SentenceTransformer: multi-qa-MiniLM-L6-cos-v1
+2025-05-08 12:21:49,156 - Use pytorch device_name: cpu
+2025-05-08 12:21:49,156 - Load pretrained SentenceTransformer: multi-qa-MiniLM-L6-cos-v1
+2025-05-08 12:21:53,835 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-08 12:21:53,835 - [33mPress CTRL+C to quit[0m
+2025-05-08 12:21:53,835 -  * Restarting with stat
+2025-05-08 12:22:04,221 - Use pytorch device_name: cpu
+2025-05-08 12:22:04,221 - Load pretrained SentenceTransformer: multi-qa-MiniLM-L6-cos-v1
+2025-05-08 12:22:08,850 -  * Debugger is active!
+2025-05-08 12:22:08,854 -  * Debugger PIN: 939-523-185
+2025-05-08 12:30:42,683 - 127.0.0.1 - - [08/May/2025 12:30:42] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 12:30:43,038 - 127.0.0.1 - - [08/May/2025 12:30:43] "POST /chat HTTP/1.1" 200 -
+2025-05-08 12:31:03,441 - 127.0.0.1 - - [08/May/2025 12:31:03] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 12:31:04,686 - 127.0.0.1 - - [08/May/2025 12:31:04] "POST /chat HTTP/1.1" 200 -
+2025-05-08 12:31:19,305 - 127.0.0.1 - - [08/May/2025 12:31:19] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 12:31:20,022 - 127.0.0.1 - - [08/May/2025 12:31:20] "POST /chat HTTP/1.1" 200 -
+2025-05-08 12:31:35,894 - 127.0.0.1 - - [08/May/2025 12:31:35] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 12:31:36,615 - 127.0.0.1 - - [08/May/2025 12:31:36] "POST /chat HTTP/1.1" 200 -
+2025-05-08 12:31:52,066 - 127.0.0.1 - - [08/May/2025 12:31:52] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 12:31:52,786 - 127.0.0.1 - - [08/May/2025 12:31:52] "POST /chat HTTP/1.1" 200 -
+2025-05-08 12:32:02,182 - 127.0.0.1 - - [08/May/2025 12:32:02] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 12:32:02,877 - 127.0.0.1 - - [08/May/2025 12:32:02] "POST /chat HTTP/1.1" 200 -
+2025-05-08 12:32:08,632 - 127.0.0.1 - - [08/May/2025 12:32:08] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 12:32:09,325 - 127.0.0.1 - - [08/May/2025 12:32:09] "POST /chat HTTP/1.1" 200 -
+2025-05-08 12:35:40,719 -  * Detected change in 'E:\\ocr(google-cloud-vision)\\basic_chatbot.py', reloading
+2025-05-08 12:35:41,651 -  * Restarting with stat
+2025-05-08 12:37:22,902 - Use pytorch device_name: cpu
+2025-05-08 12:37:22,902 - Load pretrained SentenceTransformer: multi-qa-MiniLM-L6-cos-v1
+2025-05-08 12:37:26,776 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-08 12:37:26,776 - [33mPress CTRL+C to quit[0m
+2025-05-08 12:37:26,794 -  * Restarting with stat
+2025-05-08 12:37:33,988 - Use pytorch device_name: cpu
+2025-05-08 12:37:33,988 - Load pretrained SentenceTransformer: multi-qa-MiniLM-L6-cos-v1
+2025-05-08 12:37:47,834 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='rvrjcce.ac.in', port=443): Read timed out. (read timeout=10)")': /
+2025-05-08 12:37:48,451 -  * Debugger is active!
+2025-05-08 12:37:48,453 -  * Debugger PIN: 939-523-185
+2025-05-08 12:38:25,728 - 127.0.0.1 - - [08/May/2025 12:38:25] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 12:38:26,029 - 127.0.0.1 - - [08/May/2025 12:38:26] "POST /chat HTTP/1.1" 200 -
+2025-05-08 12:38:32,028 - 127.0.0.1 - - [08/May/2025 12:38:32] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 12:38:32,761 - 127.0.0.1 - - [08/May/2025 12:38:32] "POST /chat HTTP/1.1" 200 -
+2025-05-08 12:38:38,444 - 127.0.0.1 - - [08/May/2025 12:38:38] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 12:38:38,904 - 127.0.0.1 - - [08/May/2025 12:38:38] "POST /chat HTTP/1.1" 200 -
+2025-05-08 12:38:47,414 - 127.0.0.1 - - [08/May/2025 12:38:47] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 12:38:47,857 - 127.0.0.1 - - [08/May/2025 12:38:47] "POST /chat HTTP/1.1" 200 -
+2025-05-08 12:39:07,511 - 127.0.0.1 - - [08/May/2025 12:39:07] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 12:39:07,972 - 127.0.0.1 - - [08/May/2025 12:39:07] "POST /chat HTTP/1.1" 200 -
+2025-05-08 12:42:20,487 - 127.0.0.1 - - [08/May/2025 12:42:20] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 12:42:20,975 - 127.0.0.1 - - [08/May/2025 12:42:20] "POST /chat HTTP/1.1" 200 -
+2025-05-08 12:42:28,593 - 127.0.0.1 - - [08/May/2025 12:42:28] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 12:42:29,058 - 127.0.0.1 - - [08/May/2025 12:42:29] "POST /chat HTTP/1.1" 200 -
+2025-05-08 12:43:24,375 -  * Detected change in 'E:\\ocr(google-cloud-vision)\\basic_chatbot.py', reloading
+2025-05-08 12:43:25,230 -  * Restarting with stat
+2025-05-08 12:43:36,239 - Use pytorch device_name: cpu
+2025-05-08 12:43:36,239 - Load pretrained SentenceTransformer: multi-qa-MiniLM-L6-cos-v1
+2025-05-08 12:43:40,109 -  * Debugger is active!
+2025-05-08 12:43:40,109 -  * Debugger PIN: 939-523-185
+2025-05-08 12:43:40,399 - 127.0.0.1 - - [08/May/2025 12:43:40] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 12:43:40,696 - 127.0.0.1 - - [08/May/2025 12:43:40] "POST /chat HTTP/1.1" 200 -
+2025-05-08 12:43:44,661 - 127.0.0.1 - - [08/May/2025 12:43:44] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 12:43:45,123 - 127.0.0.1 - - [08/May/2025 12:43:45] "POST /chat HTTP/1.1" 200 -
+2025-05-08 12:45:57,003 -  * Detected change in 'E:\\ocr(google-cloud-vision)\\basic_chatbot.py', reloading
+2025-05-08 12:45:57,751 -  * Restarting with stat
+2025-05-08 12:46:05,787 - Use pytorch device_name: cpu
+2025-05-08 12:46:05,787 - Load pretrained SentenceTransformer: multi-qa-MiniLM-L6-cos-v1
+2025-05-08 12:46:15,477 -  * Debugger is active!
+2025-05-08 12:46:15,484 -  * Debugger PIN: 939-523-185
+2025-05-08 12:46:20,614 - 127.0.0.1 - - [08/May/2025 12:46:20] "OPTIONS /clear_session HTTP/1.1" 200 -
+2025-05-08 12:46:20,867 - 127.0.0.1 - - [08/May/2025 12:46:20] "POST /clear_session HTTP/1.1" 200 -
+2025-05-08 12:46:55,797 -  * Detected change in 'E:\\ocr(google-cloud-vision)\\basic_chatbot.py', reloading
+2025-05-08 12:46:56,461 -  * Restarting with stat
+2025-05-08 12:47:10,424 - Use pytorch device_name: cpu
+2025-05-08 12:47:10,424 - Load pretrained SentenceTransformer: multi-qa-MiniLM-L6-cos-v1
+2025-05-08 12:47:14,982 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-08 12:47:14,982 - [33mPress CTRL+C to quit[0m
+2025-05-08 12:47:14,982 -  * Restarting with stat
+2025-05-08 12:47:22,074 - Use pytorch device_name: cpu
+2025-05-08 12:47:22,074 - Load pretrained SentenceTransformer: multi-qa-MiniLM-L6-cos-v1
+2025-05-08 12:47:25,806 -  * Debugger is active!
+2025-05-08 12:47:25,806 -  * Debugger PIN: 939-523-185
+2025-05-08 12:47:52,526 - 127.0.0.1 - - [08/May/2025 12:47:52] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 12:47:52,850 - 127.0.0.1 - - [08/May/2025 12:47:52] "POST /chat HTTP/1.1" 200 -
+2025-05-08 12:48:07,466 - 127.0.0.1 - - [08/May/2025 12:48:07] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 12:48:08,230 - 127.0.0.1 - - [08/May/2025 12:48:08] "POST /chat HTTP/1.1" 200 -
+2025-05-08 12:48:18,737 - 127.0.0.1 - - [08/May/2025 12:48:18] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 12:48:19,240 - 127.0.0.1 - - [08/May/2025 12:48:19] "POST /chat HTTP/1.1" 200 -
+2025-05-08 12:48:27,120 - 127.0.0.1 - - [08/May/2025 12:48:27] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 12:48:27,663 - 127.0.0.1 - - [08/May/2025 12:48:27] "POST /chat HTTP/1.1" 200 -
+2025-05-08 12:48:31,474 - 127.0.0.1 - - [08/May/2025 12:48:31] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 12:48:31,939 - 127.0.0.1 - - [08/May/2025 12:48:31] "POST /chat HTTP/1.1" 200 -
+2025-05-08 12:48:34,465 - 127.0.0.1 - - [08/May/2025 12:48:34] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 12:48:35,001 - 127.0.0.1 - - [08/May/2025 12:48:35] "POST /chat HTTP/1.1" 200 -
+2025-05-08 12:48:49,732 - 127.0.0.1 - - [08/May/2025 12:48:49] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 12:48:50,147 - 127.0.0.1 - - [08/May/2025 12:48:50] "POST /chat HTTP/1.1" 200 -
+2025-05-08 12:52:12,435 - 127.0.0.1 - - [08/May/2025 12:52:12] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 12:52:12,692 - 127.0.0.1 - - [08/May/2025 12:52:12] "POST /chat HTTP/1.1" 200 -
+2025-05-08 12:52:19,030 - 127.0.0.1 - - [08/May/2025 12:52:19] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 12:52:19,562 - 127.0.0.1 - - [08/May/2025 12:52:19] "POST /chat HTTP/1.1" 200 -
+2025-05-08 12:52:23,453 - 127.0.0.1 - - [08/May/2025 12:52:23] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 12:52:23,976 - 127.0.0.1 - - [08/May/2025 12:52:23] "POST /chat HTTP/1.1" 200 -
+2025-05-08 12:52:27,742 - 127.0.0.1 - - [08/May/2025 12:52:27] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 12:52:28,287 - 127.0.0.1 - - [08/May/2025 12:52:28] "POST /chat HTTP/1.1" 200 -
+2025-05-08 12:52:30,809 - 127.0.0.1 - - [08/May/2025 12:52:30] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 12:52:31,306 - 127.0.0.1 - - [08/May/2025 12:52:31] "POST /chat HTTP/1.1" 200 -
+2025-05-08 12:53:07,255 - Use pytorch device_name: cpu
+2025-05-08 12:53:07,255 - Load pretrained SentenceTransformer: multi-qa-MiniLM-L6-cos-v1
+2025-05-08 12:53:10,977 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-08 12:53:10,977 - [33mPress CTRL+C to quit[0m
+2025-05-08 12:53:10,979 -  * Restarting with stat
+2025-05-08 12:53:18,736 - Use pytorch device_name: cpu
+2025-05-08 12:53:18,736 - Load pretrained SentenceTransformer: multi-qa-MiniLM-L6-cos-v1
+2025-05-08 12:53:22,085 -  * Debugger is active!
+2025-05-08 12:53:22,085 -  * Debugger PIN: 939-523-185
+2025-05-08 12:53:44,976 - 127.0.0.1 - - [08/May/2025 12:53:44] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 12:53:45,286 - 127.0.0.1 - - [08/May/2025 12:53:45] "POST /chat HTTP/1.1" 200 -
+2025-05-08 12:53:49,074 - 127.0.0.1 - - [08/May/2025 12:53:49] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 12:53:49,713 - 127.0.0.1 - - [08/May/2025 12:53:49] "POST /chat HTTP/1.1" 200 -
+2025-05-08 12:53:55,220 - 127.0.0.1 - - [08/May/2025 12:53:55] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 12:53:55,722 - 127.0.0.1 - - [08/May/2025 12:53:55] "POST /chat HTTP/1.1" 200 -
+2025-05-08 12:54:01,063 - 127.0.0.1 - - [08/May/2025 12:54:01] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 12:54:01,586 - 127.0.0.1 - - [08/May/2025 12:54:01] "POST /chat HTTP/1.1" 200 -
+2025-05-08 12:56:24,032 -  * Detected change in 'E:\\ocr(google-cloud-vision)\\basic_chatbot.py', reloading
+2025-05-08 12:56:25,175 -  * Restarting with stat
+2025-05-08 12:56:37,967 - Use pytorch device_name: cpu
+2025-05-08 12:56:37,967 - Load pretrained SentenceTransformer: multi-qa-MiniLM-L6-cos-v1
+2025-05-08 12:56:42,190 -  * Debugger is active!
+2025-05-08 12:56:42,197 -  * Debugger PIN: 939-523-185
+2025-05-08 13:02:40,938 -  * Detected change in 'E:\\ocr(google-cloud-vision)\\basic_chatbot.py', reloading
+2025-05-08 13:02:41,789 -  * Restarting with stat
+2025-05-08 13:02:50,651 - Use pytorch device_name: cpu
+2025-05-08 13:02:50,651 - Load pretrained SentenceTransformer: multi-qa-MiniLM-L6-cos-v1
+2025-05-08 13:03:09,813 - Use pytorch device_name: cpu
+2025-05-08 13:03:09,813 - Load pretrained SentenceTransformer: multi-qa-MiniLM-L6-cos-v1
+2025-05-08 13:03:13,543 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-08 13:03:13,543 - [33mPress CTRL+C to quit[0m
+2025-05-08 13:03:13,546 -  * Restarting with stat
+2025-05-08 13:03:21,546 - Use pytorch device_name: cpu
+2025-05-08 13:03:21,546 - Load pretrained SentenceTransformer: multi-qa-MiniLM-L6-cos-v1
+2025-05-08 13:03:24,653 -  * Debugger is active!
+2025-05-08 13:03:24,665 -  * Debugger PIN: 939-523-185
+2025-05-08 13:03:53,631 - 127.0.0.1 - - [08/May/2025 13:03:53] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 13:03:53,928 - 127.0.0.1 - - [08/May/2025 13:03:53] "POST /chat HTTP/1.1" 200 -
+2025-05-08 13:04:00,226 - 127.0.0.1 - - [08/May/2025 13:04:00] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 13:04:01,023 - 127.0.0.1 - - [08/May/2025 13:04:01] "POST /chat HTTP/1.1" 200 -
+2025-05-08 13:04:08,392 - 127.0.0.1 - - [08/May/2025 13:04:08] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 13:04:08,867 - 127.0.0.1 - - [08/May/2025 13:04:08] "POST /chat HTTP/1.1" 200 -
+2025-05-08 13:04:20,727 - 127.0.0.1 - - [08/May/2025 13:04:20] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 13:04:21,313 - 127.0.0.1 - - [08/May/2025 13:04:21] "POST /chat HTTP/1.1" 200 -
+2025-05-08 13:04:25,464 - 127.0.0.1 - - [08/May/2025 13:04:25] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 13:04:26,007 - 127.0.0.1 - - [08/May/2025 13:04:26] "POST /chat HTTP/1.1" 200 -
+2025-05-08 13:04:36,122 - 127.0.0.1 - - [08/May/2025 13:04:36] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 13:04:36,659 - 127.0.0.1 - - [08/May/2025 13:04:36] "POST /chat HTTP/1.1" 200 -
+2025-05-08 13:04:42,630 - 127.0.0.1 - - [08/May/2025 13:04:42] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 13:04:43,198 - 127.0.0.1 - - [08/May/2025 13:04:43] "POST /chat HTTP/1.1" 200 -
+2025-05-08 13:04:53,573 - 127.0.0.1 - - [08/May/2025 13:04:53] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 13:04:54,106 - 127.0.0.1 - - [08/May/2025 13:04:54] "POST /chat HTTP/1.1" 200 -
+2025-05-08 13:05:00,764 - 127.0.0.1 - - [08/May/2025 13:05:00] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 13:05:01,308 - 127.0.0.1 - - [08/May/2025 13:05:01] "POST /chat HTTP/1.1" 200 -
+2025-05-08 13:05:08,251 - 127.0.0.1 - - [08/May/2025 13:05:08] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 13:05:08,836 - 127.0.0.1 - - [08/May/2025 13:05:08] "POST /chat HTTP/1.1" 200 -
+2025-05-08 13:07:24,096 -  * Detected change in 'E:\\ocr(google-cloud-vision)\\basic_chatbot.py', reloading
+2025-05-08 13:07:25,286 -  * Restarting with stat
+2025-05-08 13:07:39,388 - Use pytorch device_name: cpu
+2025-05-08 13:07:39,388 - Load pretrained SentenceTransformer: multi-qa-MiniLM-L6-cos-v1
+2025-05-08 13:07:52,382 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='rvrjcce.ac.in', port=443): Read timed out. (read timeout=10)")': /
+2025-05-08 13:07:52,859 -  * Debugger is active!
+2025-05-08 13:07:52,866 -  * Debugger PIN: 939-523-185
+2025-05-08 13:12:46,306 -  * Detected change in 'E:\\ocr(google-cloud-vision)\\basic_chatbot.py', reloading
+2025-05-08 13:12:47,092 -  * Restarting with stat
+2025-05-08 13:12:56,001 - Use pytorch device_name: cpu
+2025-05-08 13:12:56,001 - Load pretrained SentenceTransformer: multi-qa-MiniLM-L6-cos-v1
+2025-05-08 13:13:02,007 -  * Debugger is active!
+2025-05-08 13:13:02,007 -  * Debugger PIN: 939-523-185
+2025-05-08 13:14:40,116 - 127.0.0.1 - - [08/May/2025 13:14:40] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 13:14:40,407 - Sentiment score for 'hi': 0.0
+2025-05-08 13:14:40,407 - 127.0.0.1 - - [08/May/2025 13:14:40] "POST /chat HTTP/1.1" 200 -
+2025-05-08 13:14:44,852 - 127.0.0.1 - - [08/May/2025 13:14:44] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 13:14:45,161 - Sentiment score for 'tell me about your college': 0.0
+2025-05-08 13:14:45,669 - 127.0.0.1 - - [08/May/2025 13:14:45] "POST /chat HTTP/1.1" 200 -
+2025-05-08 13:14:52,098 - 127.0.0.1 - - [08/May/2025 13:14:52] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 13:14:52,410 - Sentiment score for 'what about placements': 0.0
+2025-05-08 13:14:52,624 - 127.0.0.1 - - [08/May/2025 13:14:52] "POST /chat HTTP/1.1" 200 -
+2025-05-08 13:14:58,974 - 127.0.0.1 - - [08/May/2025 13:14:58] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 13:14:59,294 - Sentiment score for 'tell me about placements': 0.0
+2025-05-08 13:14:59,613 - 127.0.0.1 - - [08/May/2025 13:14:59] "POST /chat HTTP/1.1" 200 -
+2025-05-08 13:15:05,640 - 127.0.0.1 - - [08/May/2025 13:15:05] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 13:15:05,943 - Sentiment score for 'tell me about sports': 0.0
+2025-05-08 13:15:06,183 - 127.0.0.1 - - [08/May/2025 13:15:06] "POST /chat HTTP/1.1" 200 -
+2025-05-08 13:15:10,143 - 127.0.0.1 - - [08/May/2025 13:15:10] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 13:15:10,464 - Sentiment score for 'I mean Sports': 0.0
+2025-05-08 13:15:10,875 - 127.0.0.1 - - [08/May/2025 13:15:10] "POST /chat HTTP/1.1" 200 -
+2025-05-08 13:15:13,722 - 127.0.0.1 - - [08/May/2025 13:15:13] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 13:15:14,026 - Sentiment score for 'I mean sports': 0.0
+2025-05-08 13:15:14,253 - 127.0.0.1 - - [08/May/2025 13:15:14] "POST /chat HTTP/1.1" 200 -
+2025-05-08 13:15:18,416 - 127.0.0.1 - - [08/May/2025 13:15:18] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 13:15:18,728 - Sentiment score for 'soprts': 0.0
+2025-05-08 13:15:18,964 - 127.0.0.1 - - [08/May/2025 13:15:18] "POST /chat HTTP/1.1" 200 -
+2025-05-08 13:17:01,902 - 127.0.0.1 - - [08/May/2025 13:17:01] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 13:17:02,165 - Sentiment score for 'facilities': 0.0
+2025-05-08 13:17:02,366 - 127.0.0.1 - - [08/May/2025 13:17:02] "POST /chat HTTP/1.1" 200 -
+2025-05-08 13:17:08,274 - 127.0.0.1 - - [08/May/2025 13:17:08] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 13:17:08,582 - Sentiment score for 'location': 0.0
+2025-05-08 13:17:08,830 - 127.0.0.1 - - [08/May/2025 13:17:08] "POST /chat HTTP/1.1" 200 -
+2025-05-08 13:20:05,430 -  * Detected change in 'E:\\ocr(google-cloud-vision)\\basic_chatbot.py', reloading
+2025-05-08 13:20:06,466 -  * Restarting with stat
+2025-05-08 13:20:15,922 - Use pytorch device_name: cpu
+2025-05-08 13:20:15,923 - Load pretrained SentenceTransformer: multi-qa-MiniLM-L6-cos-v1
+2025-05-08 13:20:21,118 -  * Debugger is active!
+2025-05-08 13:20:21,123 -  * Debugger PIN: 939-523-185
+2025-05-08 13:23:02,627 - 127.0.0.1 - - [08/May/2025 13:23:02] "OPTIONS /clear_session HTTP/1.1" 200 -
+2025-05-08 13:23:02,888 - 127.0.0.1 - - [08/May/2025 13:23:02] "POST /clear_session HTTP/1.1" 200 -
+2025-05-08 13:23:07,786 - 127.0.0.1 - - [08/May/2025 13:23:07] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 13:23:08,166 - Sentiment score for 'hi': 0.0
+2025-05-08 13:23:08,167 - 127.0.0.1 - - [08/May/2025 13:23:08] "POST /chat HTTP/1.1" 200 -
+2025-05-08 13:23:19,480 - 127.0.0.1 - - [08/May/2025 13:23:19] "OPTIONS /clear_session HTTP/1.1" 200 -
+2025-05-08 13:23:19,785 - 127.0.0.1 - - [08/May/2025 13:23:19] "POST /clear_session HTTP/1.1" 200 -
+2025-05-08 14:51:03,335 - Use pytorch device_name: cpu
+2025-05-08 14:51:03,335 - Load pretrained SentenceTransformer: multi-qa-MiniLM-L6-cos-v1
+2025-05-08 14:51:08,177 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B2CEC75E50>: Failed to resolve 'rvrjcce.ac.in' ([Errno 11002] getaddrinfo failed)")': /
+2025-05-08 14:51:10,187 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B2CEC75C40>: Failed to resolve 'rvrjcce.ac.in' ([Errno 11002] getaddrinfo failed)")': /
+2025-05-08 14:51:14,200 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B2CEC75460>: Failed to resolve 'rvrjcce.ac.in' ([Errno 11002] getaddrinfo failed)")': /
+2025-05-08 14:51:15,527 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-08 14:51:15,527 - [33mPress CTRL+C to quit[0m
+2025-05-08 14:51:15,527 -  * Restarting with stat
+2025-05-08 14:51:21,376 - Use pytorch device_name: cpu
+2025-05-08 14:51:21,376 - Load pretrained SentenceTransformer: multi-qa-MiniLM-L6-cos-v1
+2025-05-08 14:51:25,028 -  * Debugger is active!
+2025-05-08 14:51:25,028 -  * Debugger PIN: 939-523-185
+2025-05-08 14:54:00,175 - 127.0.0.1 - - [08/May/2025 14:54:00] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 14:54:00,526 - Sentiment score for 'hello': 0.0
+2025-05-08 14:54:00,526 - 127.0.0.1 - - [08/May/2025 14:54:00] "POST /chat HTTP/1.1" 200 -
+2025-05-08 14:54:06,741 - 127.0.0.1 - - [08/May/2025 14:54:06] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 14:54:07,051 - Sentiment score for 'tell me about your college': 0.0
+2025-05-08 14:54:07,925 - 127.0.0.1 - - [08/May/2025 14:54:07] "POST /chat HTTP/1.1" 200 -
+2025-05-08 14:54:13,464 - 127.0.0.1 - - [08/May/2025 14:54:13] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 14:54:13,784 - Sentiment score for 'what about sports': 0.0
+2025-05-08 14:54:14,178 - 127.0.0.1 - - [08/May/2025 14:54:14] "POST /chat HTTP/1.1" 200 -
+2025-05-08 14:54:22,000 - 127.0.0.1 - - [08/May/2025 14:54:22] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 14:54:22,252 - Sentiment score for 'what about placements': 0.0
+2025-05-08 14:54:22,645 - 127.0.0.1 - - [08/May/2025 14:54:22] "POST /chat HTTP/1.1" 200 -
+2025-05-08 14:54:25,922 - 127.0.0.1 - - [08/May/2025 14:54:25] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 14:54:26,227 - Sentiment score for 'placements': 0.0
+2025-05-08 14:54:26,626 - 127.0.0.1 - - [08/May/2025 14:54:26] "POST /chat HTTP/1.1" 200 -
+2025-05-08 14:54:29,950 - 127.0.0.1 - - [08/May/2025 14:54:29] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 14:54:30,215 - Sentiment score for 'sports': 0.0
+2025-05-08 14:54:30,626 - 127.0.0.1 - - [08/May/2025 14:54:30] "POST /chat HTTP/1.1" 200 -
+2025-05-08 14:54:53,409 - 127.0.0.1 - - [08/May/2025 14:54:53] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-08 14:54:53,665 - Sentiment score for 'that's nice': 0.4215
+2025-05-08 14:54:54,084 - 127.0.0.1 - - [08/May/2025 14:54:54] "POST /chat HTTP/1.1" 200 -
