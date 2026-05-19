@@ -29,7 +29,7 @@ nltk.download('vader_lexicon', quiet=True)
 analyzer = SentimentIntensityAnalyzer()
 
 # Initialize SentenceTransformer model
-model = SentenceTransformer('all-MiniLM-L6-v2')
+model = None
 
 # Global variables
 knowledge_base = {}
@@ -88,8 +88,11 @@ keywords = {
 }
 
 def load_knowledge_base():
-    global knowledge_base, dynamic_json_data, placement_data, kb_embeddings, kb_keys
+    global knowledge_base, dynamic_json_data, placement_data, kb_embeddings, kb_keys, model
     try:
+        logging.info("Starting to load AI model and knowledge base in background...")
+        if model is None:
+            model = SentenceTransformer('all-MiniLM-L6-v2')
         # Load static data
         with open('RVRJC_static.json', 'r', encoding='utf-8') as f:
             static_data = json.load(f)
@@ -138,7 +141,7 @@ def fetch_dynamic_data():
                 json.dump(dynamic_json_data, f, ensure_ascii=False, indent=2)
         global kb_embeddings, kb_keys
         kb_keys = list(knowledge_base.keys())
-        if kb_keys:
+        if kb_keys and model is not None:
             kb_embeddings = model.encode(kb_keys, convert_to_tensor=True)
         logging.info("Dynamic data and embeddings updated")
     except Exception as e:
@@ -757,7 +760,7 @@ def find_answer(user_message, session_id):
         logging.warning(f"Query not found in knowledge_base: {query}")
 
     # Similarity matching
-    if kb_keys:
+    if kb_keys and model is not None:
         query_embedding = model.encode(query_clean, convert_to_tensor=True)
         scores = util.cos_sim(query_embedding, kb_embeddings)[0]
         top_index = scores.argmax().item()
@@ -810,8 +813,8 @@ def chat():
         logging.error(f"Error in /chat endpoint: {str(e)}")
         return jsonify({'response': f"Oops, something went wrong! But RVR & JC is still awesome—try asking about college facilities or sports. 😊"})
 
-# Load knowledge base when the module is imported by a WSGI server (like Waitress or Gunicorn)
-load_knowledge_base()
+# Load knowledge base in a background thread so it doesn't block the web server from starting up
+threading.Thread(target=load_knowledge_base, daemon=True).start()
 
 if __name__ == '__main__':
     app.run(debug=True)
