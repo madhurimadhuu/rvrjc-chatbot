@@ -1,0 +1,8 @@
+Flask
+flask-cors
+nltk
+torch==2.7.1+cpu
+sentence-transformers
+beautifulsoup4
+requests
+gunicorn

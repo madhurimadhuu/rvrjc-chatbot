@@ -1,0 +1,75 @@
+{
+  "College Name": "Our College is RVR & JC College of Engineering and Technology",
+  "College Address": "Located in Chowdavaram, Guntur, Andhra Pradesh",
+  "College fullform": "Rayapati Venkata Ranga Rao & Jagarlamudi Chandramouli",
+  "RVR & JC stands for": "Rayapati Venkata Ranga Rao & Jagarlamudi Chandramouli",
+  "Departments": ["CSE", "CSD", "CSBS", "CSO", "CSM", "ECE", "CHEMICAL", "IT", "Mechanical", "Civil", "EEE"],
+  "Principal Name": "Dr. Kolla Srinivas",
+  "College Email": "principal@rvrjc.ac.in",
+  "Contact Numbers": ["94910 73317", "94910 73318"],
+  "Campus Facilities": ["State-of-the-art Library", "Advanced Labs", "Comfortable Hostels", "Reliable Transport", "World-class Sports Facilities", "Modern Canteen", "Campus-wide Wi-Fi"],
+  "What is the college name": "RVR & JC College of Engineering and Technology",
+  "Where is the college located": "Chowdavaram, Guntur, Andhra Pradesh",
+  "What are the departments": "CSE, ECE, Mechanical, Civil, EEE, IT, Chemical, CSD, CSBS, CSO, CSM, and more",
+  "What are the college timings": "8:00 AM to 5:00 PM, fostering a disciplined yet vibrant learning environment",
+  "Is hostel available": "Absolutely! We offer comfortable hostels for both boys and girls, creating a home away from home",
+  "What courses are offered": "B.Tech, M.Tech, MBA, MCA—designed to shape future leaders and innovators",
+  "What is the official website": "http://www.rvrjcce.ac.in",
+  "Hostel for Boys": "Located right beside the college for convenience and community",
+  "Hostel for Girls": "NES Women's Hostel, beside Sri Venkateswara Swamy Temple, Main Road, SVN Colony, Guntur-522006, ensuring safety and comfort",
+  "Fee for CSD": "3,10,000",
+  "Fee for CSBS": "3,00,000",
+  "Fee for CSE": "2,90,000",
+  "Fee for ECE": "2,00,000",
+  "Fee for CSM": "2,00,000",
+  "Fee for CSO": "2,10,000",
+  "Number of placements for batch 2025": "932",
+  "Number of faculty": "360 highly qualified and dedicated professors",
+  "Highest package": "25 LPA, reflecting our students' exceptional talent",
+  "What is RVR & JC College?": "RVR & JC College is an autonomous engineering college in Guntur, affiliated to JNTU Kakinada, renowned for its academic rigor and vibrant campus life",
+  "Tell me about RVRJC": "RVR & JC College is a premier institution offering top-tier undergraduate and postgraduate engineering programs, celebrated for its academic excellence and vibrant campus life. With a stellar NIRF ranking, over 900 placements in 2025, and a dynamic community, we’re shaping the future of engineering",
+  "Where is RVRJC located?": "Chowdavaram, Guntur, Andhra Pradesh",
+  "What is the official website of RVRJC?": "Visit us at http://www.rvrjcce.ac.in to explore our world-class programs",
+  "Achievements": [
+    "Proudly ranked among India’s top engineering colleges by NIRF, a testament to our excellence",
+    "Received multiple awards for innovative teaching and academic leadership",
+    "Our students consistently secure top ranks in JNTU Kakinada exams, shining bright"
+  ],
+  "Scholarships": [
+    "Generous merit-based scholarships for our brightest minds",
+    "Financial aid for economically disadvantaged students via government schemes",
+    "Dedicated scholarships for minority community students, fostering inclusivity"
+  ],
+  "sports": [
+    "World-class sports facilities including football, cricket, badminton, and basketball courts",
+    "RVR & JC students excel in inter-college and state-level competitions, with our cricket team winning the 2024 AP Inter-College Championship"
+  ],
+  "Sports Facilities": [
+    "State-of-the-art football and cricket fields, indoor badminton courts, and basketball arenas",
+    "Fully equipped gym and training facilities to support athletic excellence"
+  ],
+  "Sports Achievements": [
+    "Cricket team won the 2024 AP Inter-College Championship",
+    "Badminton team secured gold in the 2024 State-Level Tournament",
+    "Basketball team triumphed in the 2024 Regional League"
+  ],
+  "Sports Clubs": [
+    "Join our Cricket Club, Badminton Club, or Football Club to train with champions",
+    "Our Sports Council organizes tournaments and coaching sessions year-round"
+  ],
+  "Extra-Curricular Activities": [
+    "From music, drama, to dance and art, we nurture creativity and passion",
+    "Vibrant clubs like Literary Club, Robotics Club, and Entrepreneurship Club for holistic growth"
+  ],
+  "Cultural Events": [
+    "Our annual fest 'Vishwakarma' is a spectacular showcase of dance, music, and drama",
+    "Year-round technical fests and symposiums spark innovation and collaboration"
+  ],
+  "What is the admission process?": "Admissions are merit-based via JEE Mains, AP EAMCET for B.Tech, and GATE for M.Tech, ensuring the best talent joins us",
+  "What are the job placement opportunities?": "RVR & JC boasts a stellar placement record, with 932 students placed in 2025 at top companies like TCS, Infosys, Wipro, and Accenture. CSE leads with 350+ placements, followed by ECE with 200+. Our highest package hit 25 LPA!",
+  "Is there any campus recruitment?": "Yes! Top tech giants and startups visit our campus, offering incredible opportunities to our talented students",
+  "Alumni Success": "Our alumni are leaders in tech, entrepreneurship, and academia, working at global firms like Google, Microsoft, and ISRO, inspiring current students",
+  "Campus Life": "RVR & JC’s campus is a vibrant hub with modern facilities, active clubs, and a close-knit community, making every day exciting and enriching",
+  "Faculty Expertise": "Our 360 faculty members are PhD holders, industry experts, and dedicated mentors, guiding students to excellence",
+  "Placement Training": "Our placement cell offers rigorous training in coding, aptitude, and soft skills, ensuring our students shine in interviews"
+}
